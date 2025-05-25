@@ -14,7 +14,7 @@
    ```
    Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run App.py
 2. Option 2: Run using Docker
    Build the Docker image:
    ```bash
